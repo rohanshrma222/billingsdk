@@ -40,6 +40,7 @@ function TabNavigation({ activeTab, onTabChange }: any) {
           }`}
         >
           {tab.label}
+          {tab.label}
         </button>
       ))}
     </div>
